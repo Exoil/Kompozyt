@@ -1,0 +1,11 @@
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.1\Kompozyt.deps.json
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.1\Kompozyt.runtimeconfig.json
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.1\Kompozyt.runtimeconfig.dev.json
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.1\Kompozyt.dll
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\bin\Debug\netcoreapp2.1\Kompozyt.pdb
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.csprojAssemblyReference.cache
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.csproj.CoreCompileInputs.cache
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.AssemblyInfoInputs.cache
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.AssemblyInfo.cs
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.dll
+C:\Users\Exoil\source\repos\Kompozyt\Kompozyt\obj\Debug\netcoreapp2.1\Kompozyt.pdb
